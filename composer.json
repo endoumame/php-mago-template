@@ -1,13 +1,12 @@
 {
-    "name": "endoumame/task-management-backend",
-    "description": "Task management backend API with DDD, Railway-Oriented Programming, and Always Valid Domain Model",
+    "name": "endoumame/php-mago-template",
+    "description": "Minimal PHP project template with Mago linter, formatter, and static analyzer",
     "type": "project",
     "license": "MIT",
     "require": {
         "php": ">=8.4",
         "php-di/php-di": "^7.0",
         "endoumame/php-monad": "^1.2",
-        "ramsey/uuid": "^4.7",
         "slim/psr7": "^1.7",
         "slim/slim": "^4.15"
     },
